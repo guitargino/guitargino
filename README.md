@@ -1,6 +1,6 @@
 Olá, eu sou o Guilherme Targino 👋
 
-Sou um profissional da área de Logística em transição para Desenvolvimento Front-end. Atualmente curso Análise e Desenvolvimento de Sistemas na São Judas e foco meus estudos em criar interfaces modernas e funcionais.
+Sou um profissional da área de Logística em transição para UX/UI Design e Desenvolvimento Front-end. Atualmente curso Análise e Desenvolvimento de Sistemas na São Judas e foco meus estudos em criar interfaces modernas e funcionais.
 
 🚀 Tecnologias e Ferramentas
 <div>
